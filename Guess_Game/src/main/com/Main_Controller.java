@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Main_Controller {
 	
 	public static void main(String[] args) {
+		//First Project
 		Main_Controller obj = new Main_Controller();
 		Scanner sc = new Scanner(System.in);
 		int answerNumber = (int)(Math.random()*100)+1;
